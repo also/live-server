@@ -1,4 +1,4 @@
-package com.ryanberdeen.oneshow;
+package com.ryanberdeen.connector;
 
 import java.io.IOException;
 import java.util.Collection;
